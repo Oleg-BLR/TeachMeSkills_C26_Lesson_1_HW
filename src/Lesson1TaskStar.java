@@ -12,6 +12,5 @@ public class Lesson1TaskStar {
 
         System.out.println(a);
         System.out.println(b);
-
     }
 }
