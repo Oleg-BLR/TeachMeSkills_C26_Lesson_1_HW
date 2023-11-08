@@ -8,4 +8,5 @@ public class Lesson1HelloUser {
         String name  = inputName.nextLine();
         System.out.println("Hello, " + name +"!");
     }
+
 }
